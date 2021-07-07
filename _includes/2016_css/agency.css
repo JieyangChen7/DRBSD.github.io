@@ -756,21 +756,21 @@ section#prior:-moz-placeholder {
     color: #bbb;
 }
 
-section#contact::-moz-placeholder {
+section#prior::-moz-placeholder {
     text-transform: uppercase;
     font-family: {{ site.data.template.font.primary }};
     font-weight: 700;
     color: #bbb;
 }
 
-section#contact:-ms-input-placeholder {
+section#prior:-ms-input-placeholder {
     text-transform: uppercase;
     font-family: {{ site.data.template.font.primary }};
     font-weight: 700;
     color: #bbb;
 }
 
-section#contact .text-danger {
+section#prior .text-danger {
     color: #e74c3c;
 }
 
