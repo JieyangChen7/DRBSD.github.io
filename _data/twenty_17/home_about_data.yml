@@ -1,0 +1,41 @@
+- inverted:
+  img: icon-team.jpeg
+  name: Committee Members
+  info: Find out the committee members
+  link: /team
+
+- inverted: timeline-inverted
+  img: icon-about.jpeg
+  name: Call for Papers
+  info: Learn more about the topics
+  link: /call
+
+- inverted:
+  img: icon-agenda.jpeg
+  name: Important Dates
+  info: Check out the important dates
+  link: /important_dates
+
+#- inverted:
+#  img: icon-team.jpeg
+#  name: Team
+#  info: Find out the team members
+#  link: /team
+
+- inverted: timeline-inverted
+  img: icon-booklet.png
+  name: Submissions
+  info: Learn more about the submissions
+  link: /Submissions
+
+#- inverted:
+#  img: icon-faq.jpeg
+#  name: FAQs
+#  info: Have a Question? Many answers can be found right here in our FAQs
+#  link: /faqs
+
+#- inverted: timeline-inverted
+#  img: booklet-icon.png
+#  name: Event Booklet
+#  info: View or Download our event booklet
+#  link: /booklet
